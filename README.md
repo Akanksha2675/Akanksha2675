@@ -2,7 +2,7 @@
 
 # Hi there, I'm Akanksha 👋
 
-### Building things with AI, one prompt (and pipeline) at a time ✨
+### Building things with AI, one prompt at a time ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=I+turn+rough+ideas+into+working+prototypes;I+build+the+thing%2C+then+make+it+think;Concept+to+code%2C+fast+and+scrappy;I+care+how+it+works%2C+not+just+that+it+works;Always+shipping%2C+always+iterating" alt="Typing SVG" />
 
