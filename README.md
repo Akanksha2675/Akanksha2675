@@ -4,7 +4,7 @@
 
 ### Building things with AI, one prompt (and pipeline) at a time ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLM+Engineer;Full-Stack+Developer;Frontend+Dev+%40+Autopilat;Building+RAG+chatbots+%26+multi-agent+systems;Currently+hunting+for+a+SWE+internship+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLM+Engineer;Full-Stack+Developer;Building+RAG+chatbots+%26+multi-agent+systems;Currently+hunting+for+a+SWE+internship+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-soni-351002289)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akanksha2675)
