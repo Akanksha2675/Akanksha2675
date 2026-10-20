@@ -74,59 +74,42 @@ fun_fact: "Was a Google Student Ambassador — got people excited about Gemini b
 
 ### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**🧳 [TripIt](https://github.com/Akanksha2675/TripIt)**
-<br>
-AI multi-agent travel planner — 6 specialized agents (Orchestrator, Transport, Hotel, Activities, Budget, Executioner) planning trips & tracking budgets in real time.
-<br>
-`React` `TanStack Start` `Gemini API` `Supabase` `Razorpay`
+<a href="https://github.com/Akanksha2675/TripIt"><img src="assets/rows/tripit.svg" width="100%" alt="TripIt" /></a>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/Akanksha2675/chatgpt-clone"><img src="assets/rows/chatgpt-clone.svg" width="100%" alt="ChatGPT Clone" /></a>
 
-**💬 [ChatGPT Clone](https://github.com/Akanksha2675/chatgpt-clone)**
-<br>
-Redesigned chat UI with document & URL ingestion — grounds responses in a user-provided PDF or webpage, with multi-LLM switching.
-<br>
-`TypeScript` `Vite`
+<a href="https://github.com/Akanksha2675/Prompt-Tester-App"><img src="assets/rows/prompt-tester.svg" width="100%" alt="Prompt Tester App" /></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/Akanksha2675/Outreach-Pipeline"><img src="assets/rows/outreach-pipeline.svg" width="100%" alt="Outreach Pipeline" /></a>
 
-**🧪 [Prompt Tester App](https://github.com/Akanksha2675/Prompt-Tester-App)**
-<br>
-Live prompt-testing tool against the Gemini API, surfacing model performance metrics like token counts alongside outputs.
-<br>
-`Gemini API`
+<a href="https://github.com/Akanksha2675/College-Discovery-Platform"><img src="assets/rows/college-discovery.svg" width="100%" alt="College Discovery Platform" /></a>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-**📬 [Outreach Pipeline](https://github.com/Akanksha2675/Outreach-Pipeline)**
-<br>
-Solo-built B2B lead-gen pipeline: lookalike company discovery → decision-maker email resolution → automated outreach, in 4 stages.
-<br>
-`Python` `Ocean.io` `Prospeo` `Brevo`
+---
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### 🤝 Team & Open-Source Contributions
 
-**🎓 [College Discovery Platform](https://github.com/Akanksha2675/College-Discovery-Platform)**
-<br>
-Frontend for a college discovery platform built as a technical assignment — landing page, college detail page, side-by-side comparison, and student Q&A discussion page.
-<br>
-`Next.js` `TypeScript` `Tailwind CSS`
+<div align="center">
 
-</td>
-</tr>
-</table>
+![PRs](https://img.shields.io/badge/Pull_Requests-10-A855F7?style=for-the-badge)
+![Merged](https://img.shields.io/badge/Merged-9-8957E5?style=for-the-badge)
+![Open](https://img.shields.io/badge/Open-1-2EA043?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repositories-3-0A66C2?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/EngageU-Education-App/EngageU-website"><img src="assets/rows/c-engageu.svg" width="100%" alt="EngageU Website" /></a>
+
+<a href="https://github.com/Rohitkumar43/yourautomation"><img src="assets/rows/c-yourautomation.svg" width="100%" alt="YourAutomation" /></a>
+
+<a href="https://github.com/Veer376/chatgpt-clone"><img src="assets/rows/c-chatgpt-clone.svg" width="100%" alt="ChatGPT Clone" /></a>
+
+</div>
 
 ---
 
@@ -134,10 +117,21 @@ Frontend for a college discovery platform built as a technical assignment — la
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akanksha2675&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Akanksha2675&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha2675&layout=compact&theme=radical&hide_border=true" width="50%" />
+<table>
+<tr>
+<td align="center" valign="middle" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Akanksha2675&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=420" width="100%" />
+</td>
+<td align="center" valign="middle" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha2675&layout=compact&theme=radical&hide_border=true&card_width=420" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com?user=Akanksha2675&theme=radical&hide_border=true&card_width=420" width="60%" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -160,7 +154,7 @@ Frontend for a college discovery platform built as a technical assignment — la
 
 🌱 Deep in RAG & multi-agent systems &nbsp;|&nbsp; 💼 Open to SWE internships &nbsp;|&nbsp; 💼 Open to AI internships
 
-📫 Reach me at **soniakanksha267@gmail.com**
+📫 Reach me at **akankshasoni212005@gmail.com**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akanksha2675&color=a855f7&style=flat-square&label=Profile+Views)
 
